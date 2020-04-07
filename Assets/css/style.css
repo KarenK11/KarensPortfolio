@@ -1,10 +1,27 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap: 100, 200, 300, 400, 500, 600, 700|Exo:100, 200, 300, 400, 500, 600, 700');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat; 100, 200, 300, 400, 500, 600, 700');
 
 /*------------------------------------------------------Colours */
 
 .bg-color-name-title {
-    background-color: bisque;
+    background-color: #f4cfc9;
     padding-bottom: 12px;
+}
+
+.ui-menu-color-home {
+    background-color: #cb7b72;
+    
+}
+
+.ui-menu-color-work {
+    background-color: #cb7b72;
+}
+
+.ui-menu-color-touch {
+    background-color: #cb7b72;
+}
+
+.ui-menu-color-download {
+    background-color: #cb7b72;
 }
 
 header {
@@ -42,3 +59,17 @@ header {
     margin-bottom: 90px;
     color: black;
 }
+
+.list-inline-item:not(:last-child) {
+    margin: 0;
+}
+
+.menu-container {
+    font-size: 0;
+}
+
+#nav li {
+    font-size: 14px;
+    padding: 0;
+}
+
