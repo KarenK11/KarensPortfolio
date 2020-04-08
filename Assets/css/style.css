@@ -23,8 +23,29 @@
     background-color: #cb7b72;
 }
 
+/*------------------------------------------------------Special paddings/margins/text */
+
+h1,
+h2,
+h3, 
+h4 {
+    margin: 0;
+}
+
+.uppercase {
+    text-transform: uppercase;
+    color: #cb7b72;
+    font-weight: 1000;
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+/*------------------------------------------------------Heading */
+
 header {
-    margin: 0;  
+    margin: 0; 
 }
 
 .heading {
@@ -32,7 +53,7 @@ header {
 }
 
 .logo {
-    background: url("../images/karen.jpg");
+    background: url("../images/karen.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -101,4 +122,12 @@ header {
     font-size: 14px;
     font-weight: 300;
     letter-spacing: 2px;
+}
+
+/*------------------------------------------------------Footer */
+
+footer {
+    background-color: #f4cfc9;
+    color: #fafafa;
+    min-height: 120px;
 }
