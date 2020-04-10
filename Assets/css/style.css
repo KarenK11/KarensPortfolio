@@ -95,6 +95,9 @@ header {
     font-size: 0;
 }
 
+.list-inline {
+}
+
 #nav li {
     font-size: 14px;
     padding: 0;
@@ -103,7 +106,7 @@ header {
 .menuitem {
     height: 120px;
     text-align: center;
-    padding: 0;
+    padding: 0px;
 }
 
 .menuitem a {
@@ -191,7 +194,20 @@ header {
 
    .three-reasons-heading {
        margin-bottom: 15px;
+       margin-top: 10px;
    }
+
+   /*-----------------------------------------------Work History */
+
+.hubspot {
+    background: url("../images/hubspot.png");
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 400px;
+    max-height: 300px;
+}
+
 
 /*------------------------------------------------------Footer */
 
