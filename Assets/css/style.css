@@ -42,6 +42,13 @@ h4 {
     display: inline-block;
 }
 
+.section-heading {
+    font-family: "Exo", sans-serif;
+    font-weight: 300;
+    margin-top: 25px;
+    margin-bottom: 40px;
+    text-align: center;
+}
 /*------------------------------------------------------Heading */
 
 header {
@@ -185,7 +192,6 @@ header {
    .three-reasons-heading {
        margin-bottom: 15px;
    }
-
 
 /*------------------------------------------------------Footer */
 
