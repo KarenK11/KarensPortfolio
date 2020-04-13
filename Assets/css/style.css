@@ -7,7 +7,8 @@
     background: url("../images/karen.png");
     padding-bottom: 10px;
     max-height: 478px;
-    height: 600px;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .ui-menu-color-home {
