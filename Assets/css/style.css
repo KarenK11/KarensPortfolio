@@ -3,10 +3,10 @@
 /*------------------------------------------------------Colours */
 
 .bg-color-name-title {
-    /*background-color: #f4cfc9;*/
     background: url("../images/karen.png");
     padding-bottom: 10px;
     max-height: 478px;
+    height: 500px;
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -52,6 +52,31 @@ h4 {
     margin-top: 25px;
     margin-bottom: 40px;
     text-align: center;
+}
+
+.general-sub {
+    padding-top: 50px;
+}
+
+.btn {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.form-name,
+.form-email,
+.form-project {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.nav-bar {
+    margin-bottom: 100px;
+}
+
+.contact-heading,
+.contact-sub-heading {
+    padding-top: 10px;
 }
 
 /*------------------------------------------------------Heading */
@@ -110,7 +135,8 @@ header {
 .menuitem {
     height: 120px;
     text-align: center;
-    padding: 0px;
+    padding-bottom: 0px;
+    
 }
 
 .menuitem a {
@@ -139,7 +165,7 @@ header {
 }
 
 /*-----------------------------------------------Footer */
-footer {
+.footer {
     background-color: #525252;
     color: #fafafa;
     min-height: 120px;
