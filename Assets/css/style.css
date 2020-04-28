@@ -166,7 +166,8 @@ header {
 
 /*-----------------------------------------------Footer */
 .footer {
-    background-color: #525252;
+    /*-- background-color: #525252; */
+    background-color: #cb7b72;
     color: #fafafa;
     min-height: 120px;
 }
@@ -261,11 +262,3 @@ header {
     padding-bottom: 30px;
 }
 
-
-/*------------------------------------------------------Footer */
-
-footer {
-    background-color: #f4cfc9;
-    color: #fafafa;
-    min-height: 120px;
-}
