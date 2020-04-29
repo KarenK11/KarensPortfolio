@@ -5,8 +5,7 @@
 .bg-color-name-title {
     background: url("../images/karen.png");
     padding-bottom: 10px;
-    max-height: 478px;
-    height: 500px;
+    height: 1000px;
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -50,7 +49,6 @@ h4 {
     font-family: "Exo", sans-serif;
     font-weight: 300;
     margin-top: 25px;
-    margin-bottom: 40px;
     text-align: center;
 }
 
@@ -81,12 +79,10 @@ h4 {
 
 /*------------------------------------------------------Heading */
 
-header {
-    margin: 0; 
-}
 
 .heading {
     margin: 50px;
+    height: 1000px;
 }
 
 /*
