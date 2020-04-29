@@ -166,10 +166,16 @@ header {
 
 /*-----------------------------------------------Footer */
 .footer {
-    /*-- background-color: #525252; */
-    background-color: #cb7b72;
-    color: #fafafa;
+    background-color: #e5bdb8;
     min-height: 120px;
+}
+
+.general-sub {
+    color:#cb7b72;
+}
+
+.footer-sub {
+    color: #fafafa;
 }
 
 .cv-pdf i {
