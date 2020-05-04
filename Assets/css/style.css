@@ -84,6 +84,65 @@ h4 {
     font-weight: 1000;
 }
 
+/*----Margin spacing for main section of index.html---*/
+
+.about-me {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.main-body-do {
+    margin-left: 0;
+    margin-right: 10px;
+}
+
+.main-body-interests {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.main-body-work {
+    margin-left: 20px;
+    margin-right: 10px;
+}
+
+.what-do-i-do {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.interests {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.work {
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+
+/*----Margin spacing for main section of history.html---*/
+
+.main-body-hubspot {
+    margin-left: 0px;
+    margin-right: 10px;
+}
+
+.main-body-invision {
+    margin-left: 8px;
+    margin-right: 10px;
+}
+
+.main-body-intercom {
+    margin-left: 26px;
+    margin-right: 10px;
+}
+
+.footer-align {
+    text-align: center;
+}
+
 /*------------------------------------------------------Heading */
 
 
@@ -91,16 +150,6 @@ h4 {
     margin: 50px;
     height: 300px;
 }
-
-/*
-.logo {
-    background: url("../images/karen.png");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    max-height: 478px;
-} 
-*/
 
 .name {
     font-family: "Montserrat", sans-serif;
