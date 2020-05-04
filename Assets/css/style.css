@@ -5,7 +5,7 @@
 .bg-color-name-title {
     background: url("../images/karen.png");
     padding-bottom: 10px;
-    height: 1000px;
+    max-height: 400px;
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -14,7 +14,7 @@
     background-color: #cb7b72;
 }
 
-.ui-menu-color-work {
+.ui-menu-color-work {   
     background-color: #cb7b72;
 }
 
@@ -24,6 +24,10 @@
 
 .ui-menu-color-download {
     background-color: #cb7b72;
+}
+
+.main-heading {
+    background-color: #e5bdb8;
 }
 
 /*------------------------------------------------------Special paddings/margins/text */
@@ -38,7 +42,6 @@ h4 {
 .uppercase {
     text-transform: uppercase;
     color: #cb7b72;
-    font-weight: 1000;
 }
 
 .inline-block {
@@ -77,12 +80,16 @@ h4 {
     padding-top: 10px;
 }
 
+.weight {
+    font-weight: 1000;
+}
+
 /*------------------------------------------------------Heading */
 
 
 .heading {
     margin: 50px;
-    height: 500px;
+    height: 300px;
 }
 
 /*
@@ -97,19 +104,26 @@ h4 {
 
 .name {
     font-family: "Montserrat", sans-serif;
-    font-weight: 100;
+    font-weight: 500;
     font-size: 46px;
     margin-top: 50px;
-    color: black;
+    padding-top: 50px;
+    padding-left: 50px;
+    color: #fafafa;
+    font-weight: 500;
+    text-align: center;
 }
 
 .title {
     font-family: "Montserrat", sans-serif;
-    font-weight: 200;
+    font-weight: 500;
     font-size: 28px;
     margin-top: 20px;
     margin-bottom: 90px;
-    color: black;
+    padding-top: 50px;
+    padding-left: 50px;
+    color: #fafafa;
+    text-align: center;
 }
 
 .list-inline-item:not(:last-child) {
