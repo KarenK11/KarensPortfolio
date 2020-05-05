@@ -1,15 +1,21 @@
 <h1>Karen Kinsella's Portfolio</h1>
 
-One or two paragraphs providing an overview of your project.
+The idea behind my project was two-fold - to build a portfolio detailing my interests, skills and work history whilst also directly showcasing my frontend development skills. I wanted to be able to provide prospective clients and employers with an example of my frontend skills, as well as providing them with an insight into me, what I enjoy and what I've worked on in the past. Along with a quick and easy way to get in touch with me via the contact form. 
 
-Essentially, this part is your sales pitch.
+<h2>UX</h2>
 
-UX
+My project, my portfolio, is for prospective clients and employers to gain a deeper understanding of who I am, what interests me and work history. As well as providing a first-hand example of my work, the project itself. My three page project clearly and neatly lays out an About Me section, my Work History section and a Contact section. I have also added the option for prospective employees and clients to download a copy of my CV, should this be their preferred method. 
+
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
 In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
 
-As a user type, I want to perform an action, so that I can achieve a goal.
+I build my project based off of two User Stories: a prospective _client_ and a prospective _employer_. 
+
+As a prospective client, when I come to Karen Kinsella's Portfolio, I want to be able to see first-hand her frontend development skills. I want to be able to see a tangible webpage that she has deisgned and built herself so that I can assess her skills based off the criteria I am looking for when hiring a developer to work on my projects with me.
+
+As a prospective employer, when I come to Karen Kinsella's Portfolio, I want to see Karen's previous employment history. I want to gain an understanding of her skills and interests and a little bit about her as a person, so that I can assess her overall skills and culture fit against my hiring criteria for certain roles. 
+
 This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
 
 Features
