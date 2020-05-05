@@ -1,12 +1,11 @@
-# UserCentricFrontendDevMilestone
+*<h1>Karen Kinsella's Portfolio</h1>*
 
-Karen Kinsella's Portfolio
-The purpose of this project is to provide potential employers, recruiters and educational institutions with a comprehensive insight into the various Frontend development projects I have undertaken. 
+One or two paragraphs providing an overview of your project.
+
+Essentially, this part is your sales pitch.
 
 UX
-This website is for potential employers, recruiters and educational institutions, to provide them with an insight into my skills as a Frontend Developer, through the website itself and also to links from other projects I have undertaken. 
-
-My User Stories:
+Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
 In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
 
