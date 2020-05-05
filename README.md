@@ -1,4 +1,4 @@
-*<h1>Karen Kinsella's Portfolio</h1>*
+<h1>Karen Kinsella's Portfolio</h1>
 
 One or two paragraphs providing an overview of your project.
 
