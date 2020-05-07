@@ -56,17 +56,24 @@ In this section, you should mention all of the languages, frameworks, libraries,
 The project uses JQuery to simplify DOM manipulation.
 
 <h3>Testing</h3>
+
+I have thoroughly tested my site and can confirm that it works well and will do so for my intended users.
+
+<h4>Client</h4>
+My prospective client user goes to my Get In Touch page via the top nav bar.
+They try to submit the empty form and verify that an error message about the required fields appears.
+They try to submit the form with an invalid email address and verify that a relevant error message appears.
+They try to submit the form with all inputs valid and verify that a success message appears.
+
+<h4>Emmployer</h4>
+My prospecitve employer user goes to my Work History page via the top nav bar.
+They go to the Download CV page via the top nav bar.
+My CV opens in PDF format in another tab.
+My prospective employer downloads my CV for consideration.
+
+
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
-
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
-
-Contact form:
-Go to the "Contact Us" page
-Try to submit the empty form and verify that an error message about the required fields appears
-Try to submit the form with an invalid email address and verify that a relevant error message appears
-Try to submit the form with all inputs valid and verify that a success message appears.
+ 
 In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
 
 You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
