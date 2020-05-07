@@ -41,14 +41,14 @@ The social section of the footer allows users to visit my social profiles by hav
 
 In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
-<h3>Features Left to Implement<h3>
+<h3>Features Left to Implement</h3>
 Another feature idea I would love to implement further down the line would be direct links to my past work and projects so that prospective clients and employers could gain an even better perspective of my work.
   
 <h3>Technologies Used</h3>
-HTML: https://html.com/. Used to build the skeleton structure of my portfolio.
-CSS: https://developer.mozilla.org/en-US/docs/Web/CSS. Used to style my portfolio. 
-Bootstap: https://getbootstrap.com/. Used to make my project responsive and mobile first and to add additional styling. 
-Font Awesome: https://fontawesome.com/. Used to add icons to my portfolio. 
+<li>HTML: https://html.com/. Used to build the skeleton structure of my portfolio.</li>
+<li>CSS: https://developer.mozilla.org/en-US/docs/Web/CSS. Used to style my portfolio.</li>
+<li>Bootstap: https://getbootstrap.com/. Used to make my project responsive and mobile first and to add additional styling.</li> 
+<li>Font Awesome: https://fontawesome.com/. Used to add icons to my portfolio.</li>
 
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 
