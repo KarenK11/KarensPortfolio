@@ -78,9 +78,5 @@ In order to deploy my project to my hosting platform of choice, GitHub Pages, I 
 
 
 <h3>Credits</h3>
-Content
-The text for section Y was copied from the Wikipedia article Z
-Media
-The photos used in this site were obtained from ...
-Acknowledgements
+<h4>Acknowledgements</h4>
 I received inspiration from this project from the Code Institute's Mini Project with Bootstrap 4. I have mirrored some elements from this project, including the styling of the navigation bar and the footer, along with the contact form and CV download option. I have styled these to suit the look, feel and ultimate goal of my project. 
