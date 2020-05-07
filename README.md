@@ -74,14 +74,8 @@ You should also mention in this section any interesting bugs or problems you dis
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
 <h3>Deployment</h3>
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
+In order to deploy my project to my hosting platform of choice, GitHub Pages, I went to the settings tab within my UserCentricFrontendDevMilestone project and scrolled down to the GitHub pages section. I then toggled the "source" to "master" which provided me with the following link to my published site: https://karenk11.github.io/UserCentricFrontendDevMilestone.
 
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-
-Different values for environment variables (Heroku Config Vars)?
-Different configuration files?
-Separate git branch?
-In addition, if it is not obvious, you should also describe how to run your code locally.
 
 <h3>Credits</h3>
 Content
@@ -89,4 +83,4 @@ The text for section Y was copied from the Wikipedia article Z
 Media
 The photos used in this site were obtained from ...
 Acknowledgements
-I received inspiration for this project from X
+I received inspiration from this project from the Code Institute's Mini Project with Bootstrap 4. I have mirrored some elements from this project, including the styling of the navigation bar and the footer, along with the contact form and CV download option. I have styled these to suit the look, feel and ultimate goal of my project. 
