@@ -4,7 +4,7 @@ The idea behind my project was two-fold. To build a portfolio detailing my inter
 
 <h2>UX</h2>
 
-My project, my portfolio, is for prospective clients and employers to gain a deeper understanding of who I am, what interests me and work history. As well as providing a first-hand example of my work, the project itself. My three page project clearly and neatly lays out an About Me section, my Work History section and a Contact section. I have also added the option for prospective employees and clients to download a copy of my CV, should this be their preferred method. 
+My project, my portfolio, is intended for prospective clients and employers to gain a deeper understanding of who I am, what interests me and my work history. As well as providing a first-hand example of my work, the project itself. My three page project clearly and neatly lays out an About Me section, my Work History section and a Contact section. I have also added the option for prospective employees and clients to download a copy of my CV, should this be their preferred method. 
 
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
@@ -73,7 +73,7 @@ You should also mention in this section any interesting bugs or problems you dis
 
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
-Deployment
+<h3>Deployment</h3>
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
 
 In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
@@ -83,7 +83,7 @@ Different configuration files?
 Separate git branch?
 In addition, if it is not obvious, you should also describe how to run your code locally.
 
-Credits
+<h3>Credits</h3>
 Content
 The text for section Y was copied from the Wikipedia article Z
 Media
