@@ -1,6 +1,6 @@
 <h1>Karen Kinsella's Portfolio</h1>
 
-The idea behind my project was two-fold - to build a portfolio detailing my interests, skills and work history whilst also directly showcasing my frontend development skills. I wanted to be able to provide prospective clients and employers with an example of my frontend skills, as well as providing them with an insight into me, what I enjoy and what I've worked on in the past. Along with a quick and easy way to get in touch with me via the contact form. 
+The idea behind my project was two-fold. To build a portfolio detailing my interests, skills and work history whilst also directly showcasing my frontend development skills. I wanted to be able to provide prospective clients and employers with an example of my frontend skills, as well as providing them with an insight into me, what I enjoy and what I've worked on in the past. Along with a quick and easy way to get in touch with me via the contact form. 
 
 <h2>UX</h2>
 
@@ -16,26 +16,46 @@ As a prospective client, when I come to Karen Kinsella's Portfolio, I want to be
 
 As a prospective employer, when I come to Karen Kinsella's Portfolio, I want to see Karen's previous employment history. I want to gain an understanding of her skills and interests and a little bit about her as a person, so that I can assess her overall skills and culture fit against my hiring criteria for certain roles. 
 
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
+The wireframes I created when mocking up the idea for my project can be found here: https://github.com/KarenK11/UserCentricFrontendDevMilestone/blob/master/assets/wireframes/KarensPortfolioWireframes.pdf
 
-Features
+<h2>Features</h2>
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
 
 Existing Features
-Feature 1 - allows users X to achieve Y, by having them fill out Z
-...
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
+
+The navigation bar at the top of my portfolio allows users to switch between the separate pages of my site by giving them an easy navigational click option.
+
+The large "Karen Kinsella - Portfolio" and image header tells users what the purpose of my site is. 
+
+The main body section on the About Me page allows users to gain an understanding of what I do, what my interests are and why they should work with me by providing them with some details and points about myself. 
+
+The main body section on the Work History page allows users to gain an understanding of my current and previous work history by outlining the details of my career to date.
+
+The form on the Contact page allows users to get in touch with me regarding prospective projects and jobs by have them provide their name, email and a short message and submitting them through.
+
+The email section of the footer provides users with my email address which allows them to contact me directly.
+
+The download CV section of the footer provides users with the option of downloading my CV directly by having them click the download icon.
+
+The social section of the footer allows users to visit my social profiles by having them click the social icons. 
 
 In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
-Features Left to Implement
-Another feature idea
-Technologies Used
+<h3>Features Left to Implement<h3>
+Another feature idea I would love to implement further down the line would be direct links to my past work and projects so that prospective clients and employers could gain an even better perspective of my work.
+  
+<h3>Technologies Used</h3>
+HTML: https://html.com/. Used to build the skeleton structure of my portfolio.
+CSS: https://developer.mozilla.org/en-US/docs/Web/CSS. Used to style my portfolio. 
+Bootstap: https://getbootstrap.com/. Used to make my project responsive and mobile first and to add additional styling. 
+Font Awesome: https://fontawesome.com/. Used to add icons to my portfolio. 
+
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 
-JQuery
+<h3>JQuery</h3>
 The project uses JQuery to simplify DOM manipulation.
-Testing
+
+<h3>Testing</h3>
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
 Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
