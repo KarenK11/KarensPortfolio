@@ -65,8 +65,6 @@ My prospective employer downloads my CV for consideration.
  
 In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
 
-An interesting issue that I came across in my project, is that on mobile, the heading and image 
-
 <h3>Deployment</h3>
 In order to deploy my project to my hosting platform of choice, GitHub Pages, I went to the settings tab within my UserCentricFrontendDevMilestone project and scrolled down to the GitHub pages section. I then toggled the "source" to "master" which provided me with the following link to my published site: https://karenk11.github.io/UserCentricFrontendDevMilestone.
 
