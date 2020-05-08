@@ -1,27 +1,22 @@
 <h1>Karen Kinsella's Portfolio</h1>
 
-The idea behind my project was two-fold. To build a portfolio detailing my interests, skills and work history whilst also directly showcasing my frontend development skills. I wanted to be able to provide prospective clients and employers with an example of my frontend skills, as well as providing them with an insight into me, what I enjoy and what I've worked on in the past. Along with a quick and easy way to get in touch with me via the contact form. 
+The idea behind my project was two-fold. To build a portfolio detailing my interests and work history whilst also directly showcasing my frontend development skills. I wanted to be able to provide prospective clients and employers with an example of my frontend skills, as well as providing them with an insight into me, what I enjoy and what I've worked on in the past. Along with a quick and easy way to get in touch with me via the contact form and the ability to download my CV. 
 
 <h2>UX</h2>
 
 My project, my portfolio, is intended for prospective clients and employers to gain a deeper understanding of who I am, what interests me and my work history. As well as providing a first-hand example of my work, the project itself. My three page project clearly and neatly lays out an About Me section, my Work History section and a Contact section. I have also added the option for prospective employees and clients to download a copy of my CV, should this be their preferred method. 
 
-Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
-
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
-
 I build my project based off of two User Stories: a prospective _client_ and a prospective _employer_. 
 
-As a prospective client, when I come to Karen Kinsella's Portfolio, I want to be able to see first-hand her frontend development skills. I want to be able to see a tangible webpage that she has deisgned and built herself so that I can assess her skills based off the criteria I am looking for when hiring a developer to work on my projects with me.
+As a prospective client, when I come to Karen Kinsella's Portfolio, I want to be able to see first-hand her frontend development skills. I want to be able to see a tangible webpage that she has deisgned and built herself so that I can assess her skills based off the criteria I am looking for when hiring a developer to work on my projects with me. I then want to be able to get in touch with her regarding the projects I have in mind. 
 
-As a prospective employer, when I come to Karen Kinsella's Portfolio, I want to see Karen's previous employment history. I want to gain an understanding of her skills and interests and a little bit about her as a person, so that I can assess her overall skills and culture fit against my hiring criteria for certain roles. 
+As a prospective employer, when I come to Karen Kinsella's Portfolio, I want to see Karen's previous employment history. I want to gain an understanding of her skills and interests and a little bit about her as a person, so that I can assess her overall skills and culture fit against my hiring criteria for certain roles. I want to be able to download a copy of her CV in order to evaluate her further and I'd like to be given the option to reach out to her if needed, either via a contact form or via email. 
 
 The wireframes I created when mocking up the idea for my project can be found here: https://github.com/KarenK11/UserCentricFrontendDevMilestone/blob/master/assets/wireframes/KarensPortfolioWireframes.pdf
 
 <h2>Features</h2>
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
 
-Existing Features
+<h3>Existing Features</h3>
 
 The navigation bar at the top of my portfolio allows users to switch between the separate pages of my site by giving them an easy navigational click option.
 
@@ -31,7 +26,7 @@ The main body section on the About Me page allows users to gain an understanding
 
 The main body section on the Work History page allows users to gain an understanding of my current and previous work history by outlining the details of my career to date.
 
-The form on the Contact page allows users to get in touch with me regarding prospective projects and jobs by have them provide their name, email and a short message and submitting them through.
+The form on the Contact page allows users to get in touch with me regarding prospective projects and jobs by having them provide their name, email and a short message and submitting them through.
 
 The email section of the footer provides users with my email address which allows them to contact me directly.
 
@@ -39,10 +34,8 @@ The download CV section of the footer provides users with the option of download
 
 The social section of the footer allows users to visit my social profiles by having them click the social icons. 
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
-
 <h3>Features Left to Implement</h3>
-Another feature idea I would love to implement further down the line would be direct links to my past work and projects so that prospective clients and employers could gain an even better perspective of my work.
+Another feature idea I would love to implement further down the line would be direct links to my past work and projects so that prospective clients and employers could gain an even better perspective of my work. I imagine that this would be another, separate page on my site
   
 <h3>Technologies Used</h3>
 <li>HTML: https://html.com/. Used to build the skeleton structure of my portfolio.</li>
@@ -50,7 +43,6 @@ Another feature idea I would love to implement further down the line would be di
 <li>Bootstap: https://getbootstrap.com/. Used to make my project responsive and mobile first and to add additional styling.</li> 
 <li>Font Awesome: https://fontawesome.com/. Used to add icons to my portfolio.</li>
 
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 
 <h3>JQuery</h3>
 The project uses JQuery to simplify DOM manipulation.
@@ -70,9 +62,6 @@ My prospecitve employer user goes to my Work History page via the top nav bar.
 They go to the Download CV page via the top nav bar.
 My CV opens in PDF format in another tab.
 My prospective employer downloads my CV for consideration.
-
-
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
  
 In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
 
