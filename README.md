@@ -8,7 +8,7 @@ My project, my portfolio, is intended for prospective clients and employers to g
 
 I build my project based off of two User Stories: a prospective _client_ and a prospective _employer_. 
 
-As a prospective client, when I come to Karen Kinsella's Portfolio, I want to be able to see first-hand her frontend development skills. I want to be able to see a tangible webpage that she has deisgned and built herself so that I can assess her skills based off the criteria I am looking for when hiring a developer to work on my projects with me. I then want to be able to get in touch with her regarding the projects I have in mind. 
+As a prospective client, when I come to Karen Kinsella's Portfolio, I want to be able to see first-hand her frontend development skills. I want to be able to see a tangible webpage that she has designed and built herself so that I can assess her skills based off the criteria I am looking for when hiring a developer to work on my projects with me. I then want to be able to get in touch with her regarding the projects I have in mind. 
 
 As a prospective employer, when I come to Karen Kinsella's Portfolio, I want to see Karen's previous employment history. I want to gain an understanding of her skills and interests and a little bit about her as a person, so that I can assess her overall skills and culture fit against my hiring criteria for certain roles. I want to be able to download a copy of her CV in order to evaluate her further and I'd like to be given the option to reach out to her if needed, either via a contact form or via email. 
 
@@ -40,7 +40,7 @@ Another feature idea I would love to implement further down the line would be di
 <h3>Technologies Used</h3>
 <li>HTML: https://html.com/. Used to build the skeleton structure of my portfolio.</li>
 <li>CSS: https://developer.mozilla.org/en-US/docs/Web/CSS. Used to style my portfolio.</li>
-<li>Bootstap: https://getbootstrap.com/. Used to make my project responsive and mobile first and to add additional styling.</li> 
+<li>Bootstrap: https://getbootstrap.com/. Used to make my project responsive and mobile first and to add additional styling.</li> 
 <li>Font Awesome: https://fontawesome.com/. Used to add icons to my portfolio.</li>
 
 
@@ -57,8 +57,8 @@ They try to submit the empty form and verify that an error message about the req
 They try to submit the form with an invalid email address and verify that a relevant error message appears.
 They try to submit the form with all inputs valid and verify that a success message appears.
 
-<h4>Emmployer</h4>
-My prospecitve employer user goes to my Work History page via the top nav bar.
+<h4>Employer</h4>
+My prospective employer user goes to my Work History page via the top nav bar.
 They go to the Download CV page via the top nav bar.
 My CV opens in PDF format in another tab.
 My prospective employer downloads my CV for consideration.
